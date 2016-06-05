@@ -1,0 +1,7 @@
+div#header > div.navbar{
+  width: 100px;
+  padding-left: 10px;
+  visibility: visible;
+  position: fixed;
+  top: 30px;
+}
